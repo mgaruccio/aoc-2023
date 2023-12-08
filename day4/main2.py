@@ -1,3 +1,5 @@
+## processed in 4minutes 23 seconds on my M1 macbook
+
 from queue import Queue
 # FILE_NAME = 'day4/alt.txt'
 FILE_NAME = "day4/input.txt"
